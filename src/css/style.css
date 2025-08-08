@@ -184,4 +184,8 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+=======
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
